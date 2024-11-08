@@ -1,4 +1,4 @@
-**News Scraper and Analyzer**
+## **News Scraper and Analyzer**
 
 This project, **News Scraper and Analyzer**, is developed as part of the Python Intern Final Assessment Task. It involves scraping data from a specified news portal, processing and structuring it according to a Django model, and generating insights using a language model.
 
